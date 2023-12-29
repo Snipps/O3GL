@@ -24,6 +24,9 @@ for feature in root.findall("feature"):
 required_commands = list(set(required_commands))
 required_enums = list(set(required_enums))
 
+required_commands.sort()
+required_enums.sort()
+
 command_defs = {}
 enum_defs = {}
 
