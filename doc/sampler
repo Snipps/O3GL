@@ -1,0 +1,10 @@
+glBindSampler
+glBindSamplers
+glCreateSamplers
+glDeleteSamplers
+glGenSamplers
+glGetSamplerParameter
+glIsSampler
+glSamplerParameter
+
+glSampleMaski

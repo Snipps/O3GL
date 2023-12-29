@@ -1,0 +1,7 @@
+glClientWaitSync
+glDeleteSync
+glFenceSync
+glGetSync
+glIsSync
+glTextureBarrier
+glWaitSync
